@@ -10,3 +10,5 @@ Interesting articles and books related to DDD and other technical stuff
 - Hexagonal architecture: https://softwarecampament.wordpress.com/portsadapters/
 
 - Event-Driven Architecture by Martin Fowler https://www.youtube.com/watch?v=STKCRSUsyP0&vl=en
+
+- Not Just Events: Developing Asynchronous Microservices by Chris Richardson https://www.youtube.com/watch?v=kyNL7yCvQQc
