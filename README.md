@@ -29,3 +29,6 @@ Interesting articles and books related to DDD and other technical stuff
 - The death of Agile by Allen Hollub https://www.youtube.com/watch?v=HZyRQ8Uhhmk
 
 - No estimates by Vasco Duarte https://www.youtube.com/watch?v=cgvB2wWvi8M
+
+# Organizational
+- How to choose a Priorization Framework: https://productgym.medium.com/how-to-choose-a-prioritization-framework-17a6cb02422
