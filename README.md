@@ -20,9 +20,9 @@ Interesting articles and books related to DDD and other technical stuff
 - Overselling Event Sourcing https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/
 
 ### Sociotechnical Architecture
-- https://www.youtube.com/watch?v=EOof9dof0y0
-- https://www.youtube.com/watch?v=pFpeVehP2JI
-- https://www.youtube.com/watch?v=Pmz3FXu-Dzk
+- Sociotechnical DDD by Nick Tune: https://www.youtube.com/watch?v=EOof9dof0y0
+- Sociotechnical Architecture Patterns by Nick Tune: https://www.youtube.com/watch?v=pFpeVehP2JI
+- Sociotechnical Architecture by Nick Tune: https://www.youtube.com/watch?v=Pmz3FXu-Dzk
 
 
 # Agile
